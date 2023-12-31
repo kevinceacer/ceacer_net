@@ -6,6 +6,5 @@ Ceacer 网安专注于网络安全、源码分享、资讯分享、v2ray订阅�
 源码https://www.ceacer.cn/?cate=4<br>
 文章分享https://www.ceacer.cn/?cate=6<br>
 视频https://www.ceacer.cn/?cate=7<br>
-v2ray节点https://www.ceacer.cn/?cate=7<br>
 <br><br>
 待添加！！！
