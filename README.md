@@ -1,10 +1,6 @@
-# Ceacer 网安
-Ceacer 网安专注于网络安全、源码分享、资讯分享、v2ray订阅、clash订阅、国际汇款收款、等各大网络业务联系<br>
+# Ce Net 免费节点每天更新
+Ce Net节点汇聚Ceacer独家订阅，提供免费、每日更新的小火箭节点，致力于打造免费节点分享平台。我们专注于原创源码分享，为开发者提供最新、精品的源码下载平台。发现更多开发者资源，尽在Ceacer节点订阅，精选源码，为您的项目提供更多可能性<br>
 网站目录：<br>
-系统下载https://www.ceacer.cn/?cate=3<br>
-工具https://www.ceacer.cn/?cate=5<br>
-源码https://www.ceacer.cn/?cate=4<br>
-文章分享https://www.ceacer.cn/?cate=6<br>
-视频https://www.ceacer.cn/?cate=7<br>
+直达链接https://www.cenet.top/category-15.html<br>
 <br><br>
 待添加！！！
